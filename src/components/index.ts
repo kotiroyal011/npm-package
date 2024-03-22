@@ -1,3 +1,3 @@
 export { Button } from "./Button";
 export { Typography } from "./Typography";
-export { BasicTable } from "./BasicTable";
+export { BasicTable } from "./Table";

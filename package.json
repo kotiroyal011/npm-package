@@ -1,6 +1,6 @@
 {
   "name": "@kotiroyal011/test-button-lazy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This is test button made for a tutorial",
   "main": "dist/cjs/index.js",
   "files": [
